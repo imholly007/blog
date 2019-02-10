@@ -31,6 +31,7 @@ blockquote.alignright, .wp-caption.alignright, img.alignright {margin: .4em 0 1.
 blockquote.alignleft, .wp-caption.alignleft, img.alignleft {margin: .4em 1.6em 1.6em 0;}
 .site-branding {padding-right: 0;padding-left: 60px;}
 .widget_categories .children, .widget_nav_menu .sub-menu, .widget_pages .children {margin: .7667em .8em 0 0;}
+.textwidget ul, .textwidget ol {margin-left: 0;margin-right: 1.6em;}
 .entry-content .more-link:after {content: "";}
 .author-link:after {content: "";}
 .author-info .avatar {float: right;margin: 0 0 1.6em 1.6em;}
@@ -47,6 +48,7 @@ blockquote.alignleft, .wp-caption.alignleft, img.alignleft {margin: .4em 1.6em 1
 .pingback .edit-link {margin-right: 1em;margin-left: auto;}
 .comment-content ul, .comment-content ol {margin: 0 1.3333em 1.6em 0;}
 .comment-reply-title small a {float: left;}
+.comment-form #wp-comment-cookies-consent {margin: 0 0 0 10px;}
 @media screen and (min-width: 38.75em) {ul, ol {margin-right: 0;margin-left: auto;}
 	li > ul, li > ol, blockquote > ul, blockquote > ol {margin-right: 1.3333em;margin-left: auto;}
 	blockquote {margin-right: -1em;margin-left: auto;}
