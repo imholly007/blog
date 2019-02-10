@@ -136,8 +136,7 @@ embed, iframe, object, video {margin-bottom: 1.6842em;}
 .rtl .secondary-toggle {right: auto;left: 7.6897%;}
 .rtl .image-navigation .nav-previous, .rtl .comment-navigation .nav-previous {float: right;}
 .rtl .image-navigation .nav-next, .rtl .comment-navigation .nav-next {float: left;text-align: left;}
-.rtl blockquote.alignright, .rtl .wp-caption.alignright
-.rtl img.alignright {margin: .4211em 0 1.6842em 1.6842em;}
+.rtl blockquote.alignright, .rtl .wp-caption.alignright, .rtl img.alignright {margin: .4211em 0 1.6842em 1.6842em;}
 .rtl blockquote.alignleft, .rtl .wp-caption.alignleft, .rtl img.alignleft {margin: .4211em 1.6842em 1.6842em 0;}
 .rtl .widget blockquote {margin-right: -1.2632em;margin-left: auto;padding-right: 1.0526em;padding-left: 0;}
 .rtl .widget blockquote > blockquote {margin-right: 0;margin-left: auto;}
